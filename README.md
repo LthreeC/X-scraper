@@ -4,7 +4,7 @@
 
 *This project is based on https://github.com/Mostafa-Ehab/Twitter-Scrapper*
 
-The project is a selenium based X (twitter) scraper
+A selenium based X (twitter) scraper
 
 ...
 
