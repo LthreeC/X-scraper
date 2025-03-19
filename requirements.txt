@@ -1,0 +1,4 @@
+chromedriver_autoinstaller==0.6.4
+gradio==5.22.0
+selenium==4.29.0
+tqdm==4.67.1
